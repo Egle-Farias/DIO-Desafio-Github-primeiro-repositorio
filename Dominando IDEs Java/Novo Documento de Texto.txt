@@ -1,0 +1,16 @@
+
+
+	Java não é a única liguagem da plataforma, existem outras.
+Quando instalar o programa Java, temos que baixar o JVM também.
+Java EE = Cuida do desevolvimento WEB
+Java SE É a base do java traz algumas classes
+Java ME = Cuida dos dispositivos móveis e dos embarcados (Sinstema que roda em dispositivo próprio)
+
+	JDK = programados
+	JRE = 
+	JVM = Quem executa
+
+IDE = Ambiente de desenvolvimento integrado
+
+Github da Camila-Dio 
+git@github.com:cami-la/curso-dio-dominando-ides-java.git
