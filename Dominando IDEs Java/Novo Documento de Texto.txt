@@ -14,3 +14,14 @@ IDE = Ambiente de desenvolvimento integrado
 
 Github da Camila-Dio 
 git@github.com:cami-la/curso-dio-dominando-ides-java.git
+
+
+Comandos do Eclips:
+Ctrl + 3 = Criar um construtor
+Ctrl + D = Deleta um linha
+/* e */ comenta uma frase
+//comenta uma linha
+Ctrl + N = Criar uma nova classe
+Seleciona tudo (Alt + seta pra cima) = Mudar tudo pra cima
+Ctrl + Cifit +o = Importar
+Ctrl + 2 + L = Cria uma variável
